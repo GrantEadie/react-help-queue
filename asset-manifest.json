@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GrantEadie/react-help-queue1/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/GrantEadie/react-help-queue1/static/js/main.84d1756f.chunk.js",
+    "main.js.map": "/GrantEadie/react-help-queue1/static/js/main.84d1756f.chunk.js.map",
+    "runtime-main.js": "/GrantEadie/react-help-queue1/static/js/runtime-main.652f8b00.js",
+    "runtime-main.js.map": "/GrantEadie/react-help-queue1/static/js/runtime-main.652f8b00.js.map",
+    "static/js/2.a14cdf5d.chunk.js": "/GrantEadie/react-help-queue1/static/js/2.a14cdf5d.chunk.js",
+    "static/js/2.a14cdf5d.chunk.js.map": "/GrantEadie/react-help-queue1/static/js/2.a14cdf5d.chunk.js.map",
+    "static/js/3.62dac8cd.chunk.js": "/GrantEadie/react-help-queue1/static/js/3.62dac8cd.chunk.js",
+    "static/js/3.62dac8cd.chunk.js.map": "/GrantEadie/react-help-queue1/static/js/3.62dac8cd.chunk.js.map",
+    "index.html": "/GrantEadie/react-help-queue1/index.html",
+    "precache-manifest.aa3e2f32b0302e8cfb2ed8af7ab916f4.js": "/GrantEadie/react-help-queue1/precache-manifest.aa3e2f32b0302e8cfb2ed8af7ab916f4.js",
+    "service-worker.js": "/GrantEadie/react-help-queue1/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/GrantEadie/react-help-queue1/static/css/main.5ecd60fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.652f8b00.js",
+    "static/js/2.a14cdf5d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.84d1756f.chunk.js"
+  ]
+}
